@@ -1,0 +1,170 @@
+[
+    {
+        "subjectId": 1,
+        "name": "African Americans"
+    },
+    {
+        "subjectId": 2,
+        "name": "Antiques & Collectibles"
+    },
+    {
+        "subjectId": 3,
+        "name": "Art, Architecture & Photography"
+    },
+    {
+        "subjectId": 4,
+        "name": "Bibles & Bible Studies"
+    },
+    {
+        "subjectId": 5,
+        "name": "Biography"
+    },
+    {
+        "subjectId": 6,
+        "name": "Business Books"
+    },
+    {
+        "subjectId": 7,
+        "name": "Christianity"
+    },
+    {
+        "subjectId": 8,
+        "name": "Computer & Technology Books"
+    },
+    {
+        "subjectId": 9,
+        "name": "Cookbooks, Food & Wine"
+    },
+    {
+        "subjectId": 10,
+        "name": "Crafts & Hobbies Books"
+    },
+    {
+        "subjectId": 11,
+        "name": "Education & Teaching"
+    },
+    {
+        "subjectId": 12,
+        "name": "Engineering"
+    },
+    {
+        "subjectId": 13,
+        "name": "Foreign Languages"
+    },
+    {
+        "subjectId": 14,
+        "name": "Game Books"
+    },
+    {
+        "subjectId": 15,
+        "name": "Graphic Novels"
+    },
+    {
+        "subjectId": 16,
+        "name": "Health & Fitness"
+    },
+    {
+        "subjectId": 17,
+        "name": "History"
+    },
+    {
+        "subjectId": 18,
+        "name": "Home & Garden"
+    },
+    {
+        "subjectId": 19,
+        "name": "Humor Books"
+    },
+    {
+        "subjectId": 20,
+        "name": "Judaism & Judaica"
+    },
+    {
+        "subjectId": 21,
+        "name": "Law"
+    },
+    {
+        "subjectId": 22,
+        "name": "Medical & Nursing Books"
+    },
+    {
+        "subjectId": 23,
+        "name": "Mystery"
+    },
+    {
+        "subjectId": 24,
+        "name": "New Age & Spirituality"
+    },
+    {
+        "subjectId": 25,
+        "name": "Nonfiction"
+    },
+    {
+        "subjectId": 26,
+        "name": "Parenting & Family"
+    },
+    {
+        "subjectId": 27,
+        "name": "Pets"
+    },
+    {
+        "subjectId": 28,
+        "name": "Philosophy"
+    },
+    {
+        "subjectId": 29,
+        "name": "Politics & Current Affairs"
+    },
+    {
+        "subjectId": 30,
+        "name": "Psychology & Psychotherapy"
+    },
+    {
+        "subjectId": 31,
+        "name": "Reference"
+    },
+    {
+        "subjectId": 32,
+        "name": "Relationships"
+    },
+    {
+        "subjectId": 33,
+        "name": "Religion Books"
+    },
+    {
+        "subjectId": 34,
+        "name": "Science Fiction/Fantasy"
+    },
+    {
+        "subjectId": 35,
+        "name": "Self Help & Self Improvement"
+    },
+    {
+        "subjectId": 36,
+        "name": "Social Sciences"
+    },
+    {
+        "subjectId": 37,
+        "name": "Sports & Adventure"
+    },
+    {
+        "subjectId": 38,
+        "name": "Study Guides & Test Prep"
+    },
+    {
+        "subjectId": 39,
+        "name": "Travel"
+    },
+    {
+        "subjectId": 40,
+        "name": "True Crime"
+    },
+    {
+        "subjectId": 41,
+        "name": "Weddings"
+    },
+    {
+        "subjectId": 42,
+        "name": "Women's Studies"
+    }
+]

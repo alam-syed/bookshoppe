@@ -1,0 +1,1152 @@
+[
+    {
+        "bookId": 1,
+        "name": "Head First Java",
+        "publishDate": "2005-02-25T00:00:00",
+        "isbn": "9780596905719",
+        "edition": "2nd",
+        "pages": 720,
+        "price": 26.33,
+        "description": "Learning a complex new language is no easy task especially when it s an object-oriented computer programming language like Java. You might think the problem is your brain. It seems to have a mind of its own, a mind that doesn't always want to take in the dry, technical stuff you're forced to study. The fact is your brain craves novelty. It's constantly searching, scanning, waiting for something unusual to happen. After all, that's the way it was built to help you stay alive.",
+        "author": {
+            "authorId": 1,
+            "name": "Kathy Sierra"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 2,
+        "name": "Head First EJB",
+        "publishDate": "2005-02-03T00:00:00",
+        "isbn": "9780596005719",
+        "edition": "2nd",
+        "pages": 550,
+        "price": 15.99,
+        "description": "You'll learn not just what the technology is, but more importantly, why it is, and what it is and isn't good for. You'll learn tricks and tips for EJB development, along with tricks and tips for passing this latest, very challenging Sun Certified Business Component Developer (SCBCD) exam. You'll learn how to think like a server. You'll learn how to think like a bean. And because this is a Head First book, you'll learn how to think about thinking.",
+        "author": {
+            "authorId": 1,
+            "name": "Kathy Sierra"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 3,
+        "name": "Head First Design Patterns",
+        "publishDate": "2004-10-22T00:00:00",
+        "isbn": "9780596007126",
+        "edition": "1st",
+        "pages": 640,
+        "price": 25.99,
+        "description": "You're not alone. At any given moment, somewhere in the world someone struggles with the same software design problems you have. You know you don't want to reinvent the wheel (or worse, a flat tire), so you look to Design Patterns—the lessons learned by those who've faced the same problems. With Design Patterns, you get to take advantage of the best practices and experience of others, so that you can spend your time on...something else. ..",
+        "author": {
+            "authorId": 1,
+            "name": "Kathy Sierra"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 4,
+        "name": "Head First Design Patterns",
+        "publishDate": "2004-10-22T00:00:00",
+        "isbn": "9780596007126",
+        "edition": "1st",
+        "pages": 640,
+        "price": 25.99,
+        "description": "You're not alone. At any given moment, somewhere in the world someone struggles with the same software design problems you have. You know you don't want to reinvent the wheel (or worse, a flat tire), so you look to Design Patterns—the lessons learned by those who've faced the same problems. With Design Patterns, you get to take advantage of the best practices and experience of others, so that you can spend your time on...something else. ..",
+        "author": {
+            "authorId": 2,
+            "name": "Eric Freeman"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 5,
+        "name": "Head First HTML5 Programming",
+        "publishDate": "2011-10-19T00:00:00",
+        "isbn": "9781449390549",
+        "edition": "2nd",
+        "pages": 610,
+        "price": 20.99,
+        "description": "HTML has been on a wild ride. Sure, HTML started as a mere markup language, but more recently HTML’s put on some major muscle. Now we’ve got a language tuned for building web applications with Web storage, 2D drawing, offline support, sockets and threads, and more. And to speak this language you’ve got to go beyond HTML5 markup and into the world of the DOM, events, and JavaScript APIs. Now you probably already know all about HTML markup (otherwise known as structure) and you ...",
+        "author": {
+            "authorId": 2,
+            "name": "Eric Freeman"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 6,
+        "name": "Head Rush Ajax",
+        "publishDate": "2006-03-01T00:00:00",
+        "isbn": "9780596102258",
+        "edition": "3rd",
+        "pages": 580,
+        "price": 34,
+        "description": "Sick of creating web sites that reload every time a user moves the mouse? Tired of servers that wait around to respond to users' requests for movie tickets? It sounds like you need a little (or maybe a lot of) Ajax in your life. Asynchronous programming lets you turn your own web sites into smooth, slick, responsive applications that make your users feel like they're back on the information superhighway, not stuck on a dial-up backroad. But who wants to take on next-generation ...",
+        "author": {
+            "authorId": 2,
+            "name": "Eric Freeman"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 7,
+        "name": "Hadley In The Civil War",
+        "publishDate": "2010-03-15T00:00:00",
+        "isbn": "9781249319274",
+        "edition": null,
+        "pages": 106,
+        "price": 6.99,
+        "description": "Like towns throughout New England, Hadley, Massachusetts, sent its young men to fight in the Civil War. In this volume, author Eric Freeman contemplates the forces that drove men to enlist, and, in time, to stay home. The volume, illustrated with period engravings, publishes for the first time a complete list of the more than two hundred men who served on Hadley's behalf, together with census data and service histories, and sets their sacrifice in the context of the ... ",
+        "author": {
+            "authorId": 2,
+            "name": "Eric Freeman"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 17,
+            "name": "History"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 8,
+        "name": "Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "publishDate": "2012-08-22T00:00:00",
+        "isbn": "9781449319274",
+        "edition": "4th",
+        "pages": 223,
+        "price": 12,
+        "description": "Do you want to build web pages, but have no previous experience? This friendly guide is the perfect place to start. You’ll begin at square one, learning how the Web and web pages work, and then steadily build from there. By the end of the book, you’ll have the skills to create a simple site with multi-column pages that adapt for mobile devices. Learn how to use the latest techniques, best practices, and current web standards—including HTML5 and CSS3. Each chapter provides ... ",
+        "author": {
+            "authorId": 3,
+            "name": "Jennifer Niederst Robbins"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 0
+    },
+    {
+        "bookId": 9,
+        "name": "HTML5 Pocket Reference",
+        "publishDate": "2013-08-08T00:00:00",
+        "isbn": "9781449363352",
+        "edition": "5th",
+        "pages": 390,
+        "price": 15.99,
+        "description": "Need help finding the right HTML5 element or attribute for your web page or application? HTML5 Pocket Reference is the classic reference that web designers and developers have been keeping close at hand for more than thirteen years. This fifth edition has been updated to reflect the current state of HTML5, including the HTML5 Candidate Recommendation, the emerging HTML5.1 Working Draft, and the living WHATWG ...",
+        "author": {
+            "authorId": 3,
+            "name": "Jennifer Niederst Robbins"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 10,
+        "name": "HTML & XHTML Pocket Reference",
+        "publishDate": "2009-12-15T00:00:00",
+        "isbn": "9781449382988",
+        "edition": "4th",
+        "pages": 192,
+        "price": 10.99,
+        "description": "After years of using spacer GIFs, layers of nested tables, and other improvised solutions for building your web sites, getting used to the more stringent standards-compliant design can be intimidating. HTML and XHTML Pocket Reference is the perfect little book when you need answers immediately. Jennifer Niederst-Robbins, author Web Design in a Nutshell, has revised and updated the fourth edition of this ... ",
+        "author": {
+            "authorId": 3,
+            "name": "Jennifer Niederst Robbins"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 11,
+        "name": "Web Design in a Nutshell",
+        "publishDate": "2006-02-28T00:00:00",
+        "isbn": "9780596009878",
+        "edition": "3rd",
+        "pages": 870,
+        "price": 45,
+        "description": "Are you still designing web sites like it's 1999? If so, you're in for a surprise. Since the last edition of this book appeared five years ago, there has been a major climate change with regard to web standards. Designers are no longer using (X)HTML as a design tool, but as a means of defining the meaning and structure of content. Cascading Style Sheets are no longer just something interesting to tinker with, but rather a reliable method for handling all matters of presentation, from fonts and colors to the ...",
+        "author": {
+            "authorId": 3,
+            "name": "Jennifer Niederst Robbins"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 12,
+        "name": "Learning Web Design",
+        "publishDate": "2001-03-08T00:00:00",
+        "isbn": "9780596000363",
+        "edition": "1st",
+        "pages": 340,
+        "price": 12.99,
+        "description": "In Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond, author Jennifer Niederst shares the knowledge she's gained from years of web design experience, both as a designer and as a teacher. This book starts from the very beginning—defining the Internet, the Web, browsers, and URLs—so you don't have to have any previous knowledge about how the Web works. Jennifer helps you build the solid foundation in HTML, graphics, and design principles that you need for crafting effective web pages. She also ...",
+        "author": {
+            "authorId": 3,
+            "name": "Jennifer Niederst Robbins"
+        },
+        "publisher": {
+            "publisherId": 1,
+            "name": "O'Reilly Media"
+        },
+        "subject": {
+            "subjectId": 8,
+            "name": "Computer & Technology Books"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 13,
+        "name": "Uganda Be Kidding Me",
+        "publishDate": "2014-03-04T00:00:00",
+        "isbn": "9781455599738",
+        "edition": null,
+        "pages": 270,
+        "price": 20,
+        "description": "Wherever Chelsea Handler travels, one thing is certain: she always ends up in the land of the ridiculous. Now, in this uproarious collection, she sneaks her sharp wit through airport security and delivers her most absurd and hilarious stories ever. On safari in Africa, it's anyone's guess as to what's more dangerous: the wildlife or Chelsea. But whether she's fumbling the seduction of a guide by not knowing where tigers live (Asia, duh) or wearing a bathrobe into the bush ...",
+        "author": {
+            "authorId": 4,
+            "name": "Chelsea Handler"
+        },
+        "publisher": {
+            "publisherId": 3,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 14,
+        "name": "Hop",
+        "publishDate": "2012-03-23T00:00:00",
+        "isbn": "9781425599738",
+        "edition": null,
+        "pages": 330,
+        "price": 15.99,
+        "description": "Jobless slacker Fred James Marsden discovers that hares make horrible houseguests after injuring the Easter Bunny Russell Brand and agreeing to nurse the little hopper back to health in this animated comedy from the writers of Despicable Me, and director Tim Hill Rocko's Modern Life, SpongeBob SquarePants. For the past 4,000 years, the Easter Bunny has brought joy and candy to kids all across the globe; however, the time has come for a new Easter Bunny to take over the tradition. But while EB is the next in line ...",
+        "author": {
+            "authorId": 4,
+            "name": "Chelsea Handler"
+        },
+        "publisher": {
+            "publisherId": 3,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 15,
+        "name": "This Means War",
+        "publishDate": "2012-03-24T00:00:00",
+        "isbn": "9781333599738",
+        "edition": null,
+        "pages": 330,
+        "price": 15.99,
+        "description": "Two top CIA spies Star Trek's Chris Pine and Inception's Tom Hardy find their enduring friendship put to the ultimate test when they engage in an all-out war to win the affections of a beautiful woman Reese Witherspoon. Chelsea Handler and Til Schweiger co-star in a comedy co-written by Simon Kinberg Sherlock Holmes and Timothy Dowling Role Models and directed by McG Charlie's Angels, Terminator Salvation. ... ",
+        "author": {
+            "authorId": 4,
+            "name": "Chelsea Handler"
+        },
+        "publisher": {
+            "publisherId": 3,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 16,
+        "name": "10% Happier",
+        "publishDate": "2014-03-11T00:00:00",
+        "isbn": "9781333599711",
+        "edition": null,
+        "pages": 230,
+        "price": 9.99,
+        "description": "Nightline anchor Dan Harris embarks on an unexpected, hilarious, and deeply skeptical odyssey through the strange worlds of spirituality and self-help, and discovers a way to get happier that is truly achievable. After having a nationally televised panic attack on Good Morning America, Dan Harris knew he had to make some changes. A lifelong nonbeliever, he found himself on a bizarre adventure, involving a disgraced pastor, a mysterious self-help guru, and a gaggle of brain ...",
+        "author": {
+            "authorId": 5,
+            "name": "Dan Harris"
+        },
+        "publisher": {
+            "publisherId": 4,
+            "name": "HarperCollins Publishers"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 17,
+        "name": "Speedsolving the Cube",
+        "publishDate": "2014-05-12T00:00:00",
+        "isbn": "9781333592211",
+        "edition": null,
+        "pages": 330,
+        "price": 9.99,
+        "description": "They call it “speedcubing”—a mind-bending blur of quick twists and turns that solves Rubik’s Cube in times that have been clocked at less than 20 seconds! Today, thanks to the 2003 revival of the Rubik’s World Championships, speedcubing is spreading like wildfire. Here, complete with detailed illustrations and basic as well as advanced solving techniques, is the ultimate speedcuber’s guide. It not only gives the solution to the familiar 3x3x3 cube",
+        "author": {
+            "authorId": 5,
+            "name": "Dan Harris"
+        },
+        "publisher": {
+            "publisherId": 4,
+            "name": "HarperCollins Publishers"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 18,
+        "name": "Ascension Point (The Unity Sequence, #1)",
+        "publishDate": "2012-10-18T00:00:00",
+        "isbn": "2940016079943",
+        "edition": "1st",
+        "pages": 170,
+        "price": 39.99,
+        "description": "Titan. A genetically engineered warrior for whom going home means a death sentence… Commonwealth. A powerful politician chasing a legend from her family’s past… Seryn. A young girl seeking adventure and hiding more power than even …",
+        "author": {
+            "authorId": 5,
+            "name": "Dan Harris"
+        },
+        "publisher": {
+            "publisherId": 5,
+            "name": "Barnes & Noble"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 19,
+        "name": "Stronger",
+        "publishDate": "2014-04-08T00:00:00",
+        "isbn": "9781455584376",
+        "edition": "1st",
+        "pages": 340,
+        "price": 30,
+        "description": "When Jeff Bauman woke up on Tuesday, April 16th, 2013 in the Boston Medical Center, groggy from a series of lifesaving surgeries and missing his legs, the first thing he did was try to speak. When he realized he couldn't, he asked for a pad and paper and wrote down seven words: \"Saw the guy. Looked right at me,\" setting off one of the biggest manhunts in the country's history. Just thirty hours before, Jeff had been at the finish line of the 2013 Boston Marathon cheering on his ...",
+        "author": {
+            "authorId": 6,
+            "name": "Jeff Bauman"
+        },
+        "publisher": {
+            "publisherId": 6,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 20,
+        "name": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+        "publishDate": "2010-11-16T00:00:00",
+        "isbn": "9781400064168",
+        "edition": null,
+        "pages": 290,
+        "price": 40,
+        "description": "#1 NEW YORK TIMES BESTSELLER • SOON TO BE A MAJOR MOTION PICTURE • Look for special features inside. Join the Random House Reader’s Circle for author chats and more. In boyhood, Louis Zamperini was an incorrigible delinquent. As a teenager, he channeled his defiance into running, discovering a prodigious talent that had carried him to the Berlin Olympics. But when World War II began, the athlete became an airman, embarking on a journey ... ",
+        "author": {
+            "authorId": 7,
+            "name": "Laura Hillenbrand"
+        },
+        "publisher": {
+            "publisherId": 6,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 21,
+        "name": "Seabiscuit",
+        "publishDate": "2003-12-16T00:00:00",
+        "isbn": "9781400064164",
+        "edition": null,
+        "pages": 330,
+        "price": 40,
+        "description": "Gary Ross' Seabiscuit comes to DVD with a widescreen anamorphic transfer that preserves the original theatrical aspect ratio of 2.35:1. The transfer does a fabulous job of capturing John Schwartzman's golden cinematography. The English soundtrack is rendered in Dolby Digital 5.1. French and Spanish subtitles are accessible. Supplemental materials include an excellent commentary track recorded by Ross and his friend Steven Soderbergh. They discuss the filmmaking process, editing techniques, the difficulty of ...",
+        "author": {
+            "authorId": 7,
+            "name": "Laura Hillenbrand"
+        },
+        "publisher": {
+            "publisherId": 6,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 1
+    },
+    {
+        "bookId": 22,
+        "name": "Sono ancora un uomo",
+        "publishDate": "2012-05-29T00:00:00",
+        "isbn": "9788852026294",
+        "edition": null,
+        "pages": 429,
+        "price": 30,
+        "description": "Nel maggio del 1943 un bombardiere americano precipita nel mezzo dell'Oceano Pacifico. Dell'equipaggio si salvano soltanto tre membri, uno dei quali è Louis Zamperini, figlio di immigrati italiani. Comincia così, con un minuscolo canotto alla deriva mitragliato dagli aerei giapponesi, una delle più straordinarie odissee della Seconda guerra mondiale. Dopo aver percorso 3200 chilometri in mare nutrendosi di uccelli crudi e fegato di pescecane, i tre sbarcano su un'isola in mano giapponese. Per due anni passeranno ...",
+        "author": {
+            "authorId": 7,
+            "name": "Laura Hillenbrand"
+        },
+        "publisher": {
+            "publisherId": 6,
+            "name": "Grand Central Publishing"
+        },
+        "subject": {
+            "subjectId": 5,
+            "name": "Biography"
+        },
+        "rating": 0
+    },
+    {
+        "bookId": 23,
+        "name": "The Hungry Girl Diet: Big Portions. Big Results. Drop 10 Pounds in 4 Weeks",
+        "publishDate": "2014-03-25T00:00:00",
+        "isbn": "9780312676797",
+        "edition": "2nd",
+        "pages": 320,
+        "price": 15.99,
+        "description": "The #1 New York Times bestselling author of the Hungry Girl cookbooks now delivers the first-ever meal plan based on the concepts that have satisfied millions: The Hungry Girl Diet! Lisa Lillien has taken her famous super-sizing techniques, diet philosophies, and delicious recipes, and she's put them into a foolproof four-week jump-start plan to help you lose weight effortlessly. Approved by a registered dietitian, this program is not only completely satisfying but also entirely effective. The Hungry Girl ...",
+        "author": {
+            "authorId": 8,
+            "name": "Lisa Lillien"
+        },
+        "publisher": {
+            "publisherId": 7,
+            "name": "St. Martin's Press"
+        },
+        "subject": {
+            "subjectId": 9,
+            "name": "Cookbooks, Food & Wine"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 24,
+        "name": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "publishDate": "2014-02-09T00:00:00",
+        "isbn": "9780982301821",
+        "edition": "1st",
+        "pages": 230,
+        "price": 9.99,
+        "description": "The 10-Day Green Smoothie Cleanse will jump-start your weight loss, increase your energy level, clear your mind, and improve your overall health. Made up of supernutrients from leafy greens and fruits, green smoothies are filling and healthy and you will enjoy drinking them. Your body will also thank you for drinking them as your health and energy improve to levels you never thought possible. In ten days, you can expect to lose weight, reduce cravings, clear your mind, and improve digestion. It is an experience ...",
+        "author": {
+            "authorId": 9,
+            "name": "Jj Smith"
+        },
+        "publisher": {
+            "publisherId": 7,
+            "name": "St. Martin's Press"
+        },
+        "subject": {
+            "subjectId": 9,
+            "name": "Cookbooks, Food & Wine"
+        },
+        "rating": 0
+    },
+    {
+        "bookId": 25,
+        "name": "The New Vegetarian Cooking for Everyone",
+        "publishDate": "2014-03-11T00:00:00",
+        "isbn": "9781607745532",
+        "edition": null,
+        "pages": 672,
+        "price": 45,
+        "description": "A fully revised and expanded edition of the most comprehensive vegetarian cookbook ever published, with more than 400,000 copies in print, from America’s leading authority on vegetarian cooking. Originally published in 1997, Deborah Madison’s Vegetarian Cooking for Everyone was both ahead of its time and an instant classic. It has endured as one of the world’s most popular vegetarian cookbooks, winning both a James Beard Foundation award and the IACP Julia Child Cookbook of the...",
+        "author": {
+            "authorId": 10,
+            "name": "Deborah Madison"
+        },
+        "publisher": {
+            "publisherId": 7,
+            "name": "St. Martin's Press"
+        },
+        "subject": {
+            "subjectId": 9,
+            "name": "Cookbooks, Food & Wine"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 26,
+        "name": "The Green Smoothie Bible: 300 Delicious Recipes",
+        "publishDate": "2012-02-21T00:00:00",
+        "isbn": "9781569759745",
+        "edition": null,
+        "pages": 398,
+        "price": 8.5,
+        "description": "SUPERFOODS IN EVERY SIP You know a daily diet rich in fruits and vegetables can maximize your health and well-being. But did you know that drinking a smoothie every day made from fruits and vegetables …",
+        "author": {
+            "authorId": 11,
+            "name": "Kristine Miles"
+        },
+        "publisher": {
+            "publisherId": 7,
+            "name": "St. Martin's Press"
+        },
+        "subject": {
+            "subjectId": 9,
+            "name": "Cookbooks, Food & Wine"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 27,
+        "name": "The Smoothies Bible",
+        "publishDate": "2010-02-04T00:00:00",
+        "isbn": "9780778802419",
+        "edition": "2nd",
+        "pages": 320,
+        "price": 22,
+        "description": "One of the easiest and most delicious ways to consume the recommended 5 to 10 servings a day of fruits and vegetables is to drink them. Packed with nutrients and low in calories, smoothies are a fast, easy and great tasting way to achieve good health. The Smoothies Bible is the most comprehensive source of information to explore and detail the health benefits of these easy-to-make drinks. Here are just some of the delicious smoothies featured: Watermelon Wave, Mega Melon ...",
+        "author": {
+            "authorId": 12,
+            "name": "Pat Crocker"
+        },
+        "publisher": {
+            "publisherId": 8,
+            "name": "Rose, Robert Incorporated"
+        },
+        "subject": {
+            "subjectId": 9,
+            "name": "Cookbooks, Food & Wine"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 28,
+        "name": "Steve Jobs",
+        "publishDate": "2013-09-10T00:00:00",
+        "isbn": "9781451648546",
+        "edition": "1st",
+        "pages": 230,
+        "price": 30,
+        "description": "The phenomenal bestseller from the author of the acclaimed biographies of Benjamin Franklin and Albert Einstein. Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than 100 family members, friends, adversaries, competitors, and colleagues—Walter Isaacson set down the riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive ...",
+        "author": {
+            "authorId": 13,
+            "name": "Walter Isaacson"
+        },
+        "publisher": {
+            "publisherId": 9,
+            "name": "Simon & Schuster"
+        },
+        "subject": {
+            "subjectId": 6,
+            "name": "Business Books"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 29,
+        "name": "Jim Cramer's Get Rich Carefully",
+        "publishDate": "2013-12-31T00:00:00",
+        "isbn": "9780399168185",
+        "edition": "1st",
+        "pages": 540,
+        "price": 32,
+        "description": "Tired of phony promises about getting rich quickly, promises that lead to reckless decisions (the stepping stones to the poor house)? How about trying something different? How about going for lasting wealth—and doing it the cautious way? In Get Rich Carefully, Jim Cramer uses his thirty-five years of experience as a Wall Street veteran and host of CNBC’s Mad Money to create a guide to high-yield, low-risk investing. In our recovering economy, this is the plan you need to make ...",
+        "author": {
+            "authorId": 14,
+            "name": "James J. Cramer"
+        },
+        "publisher": {
+            "publisherId": 9,
+            "name": "Simon & Schuster"
+        },
+        "subject": {
+            "subjectId": 6,
+            "name": "Business Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 30,
+        "name": "Stress Test: Reflections on Financial Crises",
+        "publishDate": "2014-05-12T00:00:00",
+        "isbn": "9780804138598",
+        "edition": "4th",
+        "pages": 443,
+        "price": 45,
+        "description": "From the former Treasury Secretary, the definitive account of the unprecedented effort to save the U.S. economy from collapse in the wake of the worst global financial crisis since the Great Depression. On January 26, 2009, during the depth of the financial crisis and having just completed five years as President of the Federal Reserve Bank of New York, Timothy F. Geithner was sworn in by President Barack Obama as the seventy-fifth Secretary of the Treasury of the United States....",
+        "author": {
+            "authorId": 15,
+            "name": "Timothy F. Geithner"
+        },
+        "publisher": {
+            "publisherId": 9,
+            "name": "Simon & Schuster"
+        },
+        "subject": {
+            "subjectId": 6,
+            "name": "Business Books"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 31,
+        "name": "Skin Game (Dresden Files Series #15)",
+        "publishDate": "2014-05-27T00:00:00",
+        "isbn": "9780451464392",
+        "edition": null,
+        "pages": 432,
+        "price": 25,
+        "description": "“Butcher is the dean of contemporary urban fantasy.”—Booklist Harry Dresden, Chicago's only professional wizard, is about to have a very bad day Because as Winter Knight to the Queen of Air and Darkness, Harry never knows what the scheming Mab might want him to do. Usually, it’s something awful. .  He doesn’t know the half of it Mab ...",
+        "author": {
+            "authorId": 16,
+            "name": "R. A. Salvatore"
+        },
+        "publisher": {
+            "publisherId": 11,
+            "name": "Wizards of the Coast"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 32,
+        "name": "Night of the Hunter: Companions Codex, I",
+        "publishDate": "2014-03-11T00:00:00",
+        "isbn": "9780786965113",
+        "edition": "1st",
+        "pages": 322,
+        "price": 33,
+        "description": "R.A. Salvatore’s New York Times best-selling saga continues as dark elf Drizzt Do’Urden returns to Gauntlgrym with old friends by his side once again, as they seek to rescue Bruenor’s loyal shield dwarf-turned-vampire. But not only do Drizzt and his allies face a perilous journey through the Underdark and the dangers of the undead that lie within, but they must cross through a colony of drow, who would like nothing better than to see Drizzt Do’Urden dead.   ... ",
+        "author": {
+            "authorId": 16,
+            "name": "R. A. Salvatore"
+        },
+        "publisher": {
+            "publisherId": 11,
+            "name": "Wizards of the Coast"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 33,
+        "name": "Words of Radiance (Stormlight Archive Series #2)",
+        "publishDate": "2014-03-12T00:00:00",
+        "isbn": "9780765326362",
+        "edition": "2nd",
+        "pages": 443,
+        "price": 45,
+        "description": "Brandon Sanderson's The Stormlight Archive sequence began in 2010 with the New York Times bestseller The Way of Kings. Now, the eagerly anticipated Words of Radiance continues the epic story and answers many of your questions. Six years ago, the Assassin in White, a hireling of the inscrutable Parshendi, assassinated the Alethi king on the very night a treaty between men and Parshendi was being celebrated. So began the Vengeance Pact among the ...",
+        "author": {
+            "authorId": 16,
+            "name": "R. A. Salvatore"
+        },
+        "publisher": {
+            "publisherId": 11,
+            "name": "Wizards of the Coast"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 34,
+        "name": "The Broken Eye",
+        "publishDate": "2014-08-26T00:00:00",
+        "isbn": "9780316079921",
+        "edition": null,
+        "pages": 816,
+        "price": 55,
+        "description": "As the old gods awaken and satrapies splinter, the Chromeria races to find its lost Prism, the only man who may be able to stop catastrophe. But Gavin Guile is enslaved on a pirate galley. Worse, Gavin no longer has the one thing that defined him -- the ability to draft. Without the protection of his father, Kip Guile will have to face a master of shadows alone as his grandfather moves to choose a new Prism and put himself in power. With Teia and Karris, Kip will have to use all...",
+        "author": {
+            "authorId": 17,
+            "name": "Brent Weeks"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 35,
+        "name": "The Crimson Campaign",
+        "publishDate": "2014-08-27T00:00:00",
+        "isbn": "9780316079921",
+        "edition": null,
+        "pages": 816,
+        "price": 55,
+        "description": "As the old gods awaken and satrapies splinter, the Chromeria races to find its lost Prism, the only man who may be able to stop catastrophe. But Gavin Guile is enslaved on a pirate galley. Worse, Gavin no longer has the one thing that defined him -- the ability to draft. Without the protection of his father, Kip Guile will have to face a master of shadows alone as his grandfather moves to choose a new Prism and put himself in power. With Teia and Karris, Kip will have to use all...",
+        "author": {
+            "authorId": 17,
+            "name": "Brent Weeks"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 36,
+        "name": "Words of Radiance ",
+        "publishDate": "2014-08-28T00:00:00",
+        "isbn": "9780316079921",
+        "edition": null,
+        "pages": 816,
+        "price": 55,
+        "description": "As the old gods awaken and satrapies splinter, the Chromeria races to find its lost Prism, the only man who may be able to stop catastrophe. But Gavin Guile is enslaved on a pirate galley. Worse, Gavin no longer has the one thing that defined him -- the ability to draft. Without the protection of his father, Kip Guile will have to face a master of shadows alone as his grandfather moves to choose a new Prism and put himself in power. With Teia and Karris, Kip will have to use all...",
+        "author": {
+            "authorId": 17,
+            "name": "Brent Weeks"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 37,
+        "name": "Concealed in Death ",
+        "publishDate": "2014-08-29T00:00:00",
+        "isbn": "9780316079921",
+        "edition": null,
+        "pages": 816,
+        "price": 55,
+        "description": "As the old gods awaken and satrapies splinter, the Chromeria races to find its lost Prism, the only man who may be able to stop catastrophe. But Gavin Guile is enslaved on a pirate galley. Worse, Gavin no longer has the one thing that defined him -- the ability to draft. Without the protection of his father, Kip Guile will have to face a master of shadows alone as his grandfather moves to choose a new Prism and put himself in power. With Teia and Karris, Kip will have to use all...",
+        "author": {
+            "authorId": 17,
+            "name": "Brent Weeks"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 3
+    },
+    {
+        "bookId": 38,
+        "name": "Raising Steam ",
+        "publishDate": "2014-08-30T00:00:00",
+        "isbn": "9780316079921",
+        "edition": null,
+        "pages": 816,
+        "price": 55,
+        "description": "As the old gods awaken and satrapies splinter, the Chromeria races to find its lost Prism, the only man who may be able to stop catastrophe. But Gavin Guile is enslaved on a pirate galley. Worse, Gavin no longer has the one thing that defined him -- the ability to draft. Without the protection of his father, Kip Guile will have to face a master of shadows alone as his grandfather moves to choose a new Prism and put himself in power. With Teia and Karris, Kip will have to use all...",
+        "author": {
+            "authorId": 17,
+            "name": "Brent Weeks"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 39,
+        "name": "Star Trek: Enterprise: Rise of the Federation: Tower of Babel",
+        "publishDate": "2014-02-25T00:00:00",
+        "isbn": "9781476749495",
+        "edition": null,
+        "pages": 300,
+        "price": 35,
+        "description": "STARDATE 6122.5. A diplomatic mission to the planet Yusub erupts in violence when ruthless Orion raiders attempt to disrupt the crucial negotiations by force. Caught in the midst of a tense and dangerous situation, Captain James T. Kirk of the U.S.S. Enterprise finds an unexpected ally in the form of an enigmatic stranger who calls herself “Annika Seven.” STARDATE 53786.1. Seven of Nine is taking part in an archae­ological expedition on an obscure planetoid in the Delta Quadrant...",
+        "author": {
+            "authorId": 18,
+            "name": "Greg Cox"
+        },
+        "publisher": {
+            "publisherId": 13,
+            "name": "Pocket Books/Star Trek"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 40,
+        "name": "Star Trek: The Original Series: No Time Like the Past",
+        "publishDate": "2014-03-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": null,
+        "pages": 300,
+        "price": 35,
+        "description": "STARDATE 6122.5. A diplomatic mission to the planet Yusub erupts in violence when ruthless Orion raiders attempt to disrupt the crucial negotiations by force. Caught in the midst of a tense and dangerous situation, Captain James T. Kirk of the U.S.S. Enterprise finds an unexpected ally in the form of an enigmatic stranger who calls herself “Annika Seven.” STARDATE 53786.1. Seven of Nine is taking part in an archae­ological expedition on an obscure planetoid in the Delta Quadrant...",
+        "author": {
+            "authorId": 18,
+            "name": "Greg Cox"
+        },
+        "publisher": {
+            "publisherId": 13,
+            "name": "Pocket Books/Star Trek"
+        },
+        "subject": {
+            "subjectId": 34,
+            "name": "Science Fiction/Fantasy"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 41,
+        "name": "The Walking Dead I",
+        "publishDate": "2014-04-25T00:00:00",
+        "isbn": "9781476749495",
+        "edition": "1st",
+        "pages": 340,
+        "price": 45,
+        "description": "Introducing the first eight volumes of the fan-favorite, New York Times Best Seller series collected into one massive paperback collection! Collects The Walking Dead #1-48. This is the perfect collection for any fan of the Emmy Award-winning television series on AMC: over one thousand pages chronicling the beginning of Robert Kirkman's Eisner Award-winning continuing story of survival horror- from Rick Grimes' waking up alone in a hospital, to him and his family seeking solace ...",
+        "author": {
+            "authorId": 19,
+            "name": "Robert Kirkman"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 15,
+            "name": "Graphic Novels"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 42,
+        "name": "The Walking Dead II",
+        "publishDate": "2014-05-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "1st",
+        "pages": 343,
+        "price": 45,
+        "description": "Introducing the first eight volumes of the fan-favorite, New York Times Best Seller series collected into one massive paperback collection! Collects The Walking Dead #1-48. This is the perfect collection for any fan of the Emmy Award-winning television series on AMC: over one thousand pages chronicling the beginning of Robert Kirkman's Eisner Award-winning continuing story of survival horror- from Rick Grimes' waking up alone in a hospital, to him and his family seeking solace ...",
+        "author": {
+            "authorId": 19,
+            "name": "Robert Kirkman"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 15,
+            "name": "Graphic Novels"
+        },
+        "rating": 5
+    },
+    {
+        "bookId": 43,
+        "name": "Attack on Titan 2",
+        "publishDate": "2014-06-25T00:00:00",
+        "isbn": "9781476749495",
+        "edition": "2nd",
+        "pages": 343,
+        "price": 45,
+        "description": "BIRTH OF A MONSTER   The Colossal Titan has breached humanity’s first line of defense, Wall Maria. Mikasa, the 104th Training Corps’ ace and Eren’s best friend, may be the only one capable of defeating them, but beneath her calm exterior lurks a dark past. When all looks lost, a new Titan appears and begins to slaughter its fellow Titans. Could this new monster be a ... ",
+        "author": {
+            "authorId": 20,
+            "name": "Hajime Isayama"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 15,
+            "name": "Graphic Novels"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 44,
+        "name": "A Game of Thrones",
+        "publishDate": "2014-07-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "3rd",
+        "pages": 343,
+        "price": 45,
+        "description": "When dealing with a masterpiece, only the best will do. That?s why writer Daniel Abraham and illustrator Tommy Patterson were chosen to adapt George R. R. Martin?s beloved fantasy classic A Game of Thrones as a graphic novel. And as anyone who has read the previous two collected volumes of the ongoing series can attest, the result has been a stunning tour de force faithful in every respect to its brilliant original.",
+        "author": {
+            "authorId": 21,
+            "name": "George R. R. Martin"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 15,
+            "name": "Graphic Novels"
+        },
+        "rating": 0
+    },
+    {
+        "bookId": 45,
+        "name": "All-New X-Men ",
+        "publishDate": "2014-08-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "4th",
+        "pages": 343,
+        "price": 45,
+        "description": "Yesterday's X-Men continue to adjust to a present day that's simultaneously more awe-inspiring and more disturbing than any future the young heroes had ever imagined for themselves. And the situation gets even more dangerous when the villainous duo Mystique and Sabretooth target the young time-travelers - starting with Cyclops! Plus: How will Earth's Mightiest Heroes react to the time-swept X-Men? Find out when the Avengers visit the Jean Grey School! But they're not the only ones to do so, as the outlaw Uncanny ...",
+        "author": {
+            "authorId": 21,
+            "name": "George R. R. Martin"
+        },
+        "publisher": {
+            "publisherId": 12,
+            "name": "Orbit"
+        },
+        "subject": {
+            "subjectId": 15,
+            "name": "Graphic Novels"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 46,
+        "name": "The Silkworm ",
+        "publishDate": "2014-09-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "5th",
+        "pages": 343,
+        "price": 45,
+        "description": "When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike. At first, Mrs. Quine just thinks her husband has gone off by himself for a few days--as he has done before--and she wants Strike to find him and bring him home.",
+        "author": {
+            "authorId": 22,
+            "name": "Robert Galbraith"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 23,
+            "name": "Mystery"
+        },
+        "rating": 4
+    },
+    {
+        "bookId": 47,
+        "name": "Missing You",
+        "publishDate": "2014-10-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "6th",
+        "pages": 343,
+        "price": 45,
+        "description": "It's a profile, like all the others on the online dating site. But as NYPD Detective Kat Donovan focuses on the accompanying picture, she feels her whole world explode, as emotions she’s ignored for decades come crashing down on her. Staring back at her is her ex-fiancé Jeff, the ...",
+        "author": {
+            "authorId": 22,
+            "name": "Robert Galbraith"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 23,
+            "name": "Mystery"
+        },
+        "rating": 2
+    },
+    {
+        "bookId": 48,
+        "name": "Unlucky 13",
+        "publishDate": "2014-11-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "7th",
+        "pages": 343,
+        "price": 45,
+        "description": "The Women's Murder Club is stalked by a killer with nothing to lose. San Francisco Detective Lindsay Boxer is loving her life as a new mother. With an attentive husband, a job she loves, plus best friends who can talk about anything from sex to murder, things couldn't be better. Then the FBI sends Lindsay a photo of a killer from her past, and her happy world is shattered. The picture captures a beautiful woman at a stoplight. But all Lindsay ... ",
+        "author": {
+            "authorId": 22,
+            "name": "Robert Galbraith"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 23,
+            "name": "Mystery"
+        },
+        "rating": 1
+    },
+    {
+        "bookId": 49,
+        "name": "Stone Cold",
+        "publishDate": "2014-12-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "8th",
+        "pages": 343,
+        "price": 45,
+        "description": "Everything about the man is a mystery: the massive ranch in the remote Black Hills of Wyoming that nobody ever visits, the women who live with him, the secret philanthropies, the private airstrip, the sudden disappearances. And especially the persistent rumors that the man’s wealth comes from killing people.",
+        "author": {
+            "authorId": 22,
+            "name": "Robert Galbraith"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 23,
+            "name": "Mystery"
+        },
+        "rating": 0
+    },
+    {
+        "bookId": 50,
+        "name": "Children of the Revolution",
+        "publishDate": "2015-01-25T00:00:00",
+        "isbn": "9781476749493",
+        "edition": "9th",
+        "pages": 343,
+        "price": 45,
+        "description": "The body of a disgraced college lecturer is found on an abandoned railway line. In the four years since his dismissal for sexual misconduct, he’d been …",
+        "author": {
+            "authorId": 22,
+            "name": "Robert Galbraith"
+        },
+        "publisher": {
+            "publisherId": 2,
+            "name": "White River Press"
+        },
+        "subject": {
+            "subjectId": 23,
+            "name": "Mystery"
+        },
+        "rating": 3
+    }
+]

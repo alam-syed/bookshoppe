@@ -1,0 +1,14 @@
+<div class="container" style="margin-top: 130px;margin-bottom: 60px;" ng-controller="authors as vm">
+    <div class="row">
+        <div class="page-header">
+            <h1>Authors</h1>
+        </div>
+        <div class="content">
+            <div class="list-group">
+                <a ng-repeat="author in vm.Authors" ng-href="#/booklist/{{author._id.authorId}}?type=author" class="list-group-item">
+                    {{author._id.name}} <span class="badge">{{author.count}} Book(s)</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+<div class="container" style="margin-top: 130px;margin-bottom: 60px;" ng-controller="subjects as vm">
+    <div class="row">
+        <div class="page-header">
+            <h1>Subjects</h1>
+        </div>
+        <p>
+            <ul>
+                <li ng-repeat="subject in vm.Subjects">
+                    <a ng-href="#/booklist/{{subject.subjectId}}?type=subject" >{{subject.name}}</a>
+                </li>
+            </ul>
+        </p>
+    </div>
+</div>

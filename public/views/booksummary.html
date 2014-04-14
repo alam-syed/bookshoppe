@@ -1,0 +1,28 @@
+<div class="panel panel-default" ng-switch on="book.rating">
+    <div class="panel-heading">{{book.name}}</div>
+    <div class="panel-body">
+        <a class="pull-left" href="#">
+            <img class="media-object" ng-src="coverpage/{{book.bookId}}.jpg" alt="">
+        </a>
+        <div style="margin-left: 130px;">
+            Publisher:  {{book.publisher.name}}<br />
+            Publish Date:  {{book.publishDate}}<br />
+            Edition:  {{book.edition}}<br />
+            ISBN:  {{book.isbn}}<br />
+            Pages:  {{book.pages}}<br />
+            Price:  <b>{{book.price}}</b><br />
+            Rating:
+            <img style="width: 80px;" ng-switch-when="0" ng-src="img/{{book.rating}}star.png" alt="">
+            <img style="width: 80px;" ng-switch-when="1" ng-src="img/{{book.rating}}star.png" alt="">
+            <img style="width: 80px;" ng-switch-when="2" ng-src="img/{{book.rating}}star.png" alt="">
+            <img style="width: 80px;" ng-switch-when="3" ng-src="img/{{book.rating}}star.png" alt="">
+            <img style="width: 80px;" ng-switch-when="4" ng-src="img/{{book.rating}}star.png" alt="">
+            <img style="width: 80px;" ng-switch-when="5" ng-src="img/{{book.rating}}star.png" alt="">
+            <br />
+            <button class="btn btn-default btn-xs" ng-click="addCart(book.bookId)">
+                <span class="glyphicon glyphicon-shopping-cart">Add to Cart</span></button>
+            <button class="btn btn-default btn-xs" ng-click="addWishList(book.bookId)">
+                <span class="glyphicon glyphicon-asterisk">Add to Wishlist</span></button>
+        </div>
+    </div>
+</div>
