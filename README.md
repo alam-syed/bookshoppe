@@ -2,6 +2,9 @@ bookshoppe 1.0
 ==========
 
 A reference app for building single page apps (SPA) with Mongo DB, Express, Node JS and AngularJS, developed by Syed Masudul Alam.
+<br/><br/>
+<b>Demo:</b><br/>
+<a href='bookshoppe.herokuapp.com'>bookshoppe.herokuapp.com</a>
 
 Technologies
 ===========
