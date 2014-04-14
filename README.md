@@ -5,28 +5,28 @@ A reference app for building single page apps (SPA) with Mongo DB, Express, Node
 
 Technologies
 ===========
-Server-Side:
-Mongo DB
-Express
-Node JS
+<b>Server-Side:</b><br/>
+Mongo DB<br/>
+Express<br/>
+Node JS<br/>
 
 
-Client-Side:
-AngularJS
-BootStrap
+<b>Client-Side:</b><br/>
+AngularJS<br/>
+BootStrap<br/>
 
 Current Features
 ==============
-REST API with Node JS.
-Single Page Application(SPA) with AngularJS.
-AngularJS directives.
+REST API with Node JS.<br/>
+Single Page Application(SPA) with AngularJS.<br/>
+AngularJS directives.<br/>
 
 
 Roadmap Targets
 =================
-AngularJS factory $resource for interacting with RESTful server-side data sources.
-AngularJS $http interceptors.
-Server-Side security with Node JS and Express.
-Code refactoring.
-Performance optimizations and best prarctices for SPA.
+AngularJS factory $resource for interacting with RESTful server-side data sources.<br/>
+AngularJS $http interceptors.<br/>
+Server-Side security with Node JS and Express.<br/>
+Code refactoring.<br/>
+Performance optimizations and best prarctices for SPA.<br/>
 
